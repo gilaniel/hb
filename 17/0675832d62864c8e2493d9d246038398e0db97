@@ -1,0 +1,14 @@
+index.html
+  h_e0ee085ed3b515 1-39
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "170675832d62864c8e2493d9d246038398e0db97",
+  "prompts": {},
+  "humans": {
+    "h_e0ee085ed3b515": {
+      "author": "gila <gila@kedoo.com>"
+    }
+  }
+}
